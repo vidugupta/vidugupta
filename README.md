@@ -2,7 +2,7 @@
 - 👀 I’m interested in Graphic Designing and Web Development.
 - 🌱 I’m currently learning Graphic Designing and new frontend frameworks.
 - 💞️ I’m looking to collaborate on UI/UX Projects.
-- 📫 How to reach me through email - vidugupta1931@gmail.com
+- 📫 How to reach me through email - 19.vidushigupta@gmail.com
 
 <!---
 vidugupta/vidugupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
